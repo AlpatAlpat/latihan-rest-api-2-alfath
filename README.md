@@ -55,10 +55,6 @@ composer install
 ### 5. Salin File Konfigurasi Environment
 Salin file `.env.example` menjadi `.env`:
 
-- **Windows (PowerShell):**
-  ```powershell
-  Copy-Item .env.example .env
-  ```
 - **macOS / Linux:**
   ```bash
   cp .env.example .env
